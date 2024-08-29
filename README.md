@@ -1,1 +1,1 @@
-# Extra-o-limpeza-de-dados-e-produ-o-de-mapa-coropl-tico
+Extração, seleção e organização de dados de população dos municípios brasileiros presentes em um PDF. Concatenação dos dados extraídos com as geometrias municipais respectivas. Verificação e recuperação de dados faltosos. Produção de mapa coroplético interativo.
